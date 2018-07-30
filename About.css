@@ -1,0 +1,68 @@
+html, body {
+
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    color: #FFFFFF ;
+    line-height: 1.5;
+  font-family: 'Lato' , sans-serif;
+  background-color: #000000;
+  text-align: center;
+  margin: 30px;
+
+}
+
+h1{
+  font-size: 48px;
+  text-align: center;
+  position: relative;
+  top: 10px;
+  left: 20px;
+  margin: 10px;
+  padding: 20px;
+
+
+}
+
+h2{
+  text-align: center;
+  border: 1px solid #FFFFFF;
+position: relative;
+background-color: Aqua ;
+  padding: 20px;
+top: 10px;
+left: 20px;
+margin: 20px;
+}
+
+video{
+  display: block;
+margin: 0 auto;
+position: relative;
+
+}
+
+img{
+  display: block;
+margin: auto;
+
+}
+
+h3{
+text-align: center;
+border: 1px solid #FFFFFF;
+position: relative;
+background-color: Aqua ;
+top: 10px;
+left: 20px;
+margin: 20px
+
+}
+
+
+p2{
+  text-align: center;
+  font-size: 14px;
+  margin: 20px;
+}
